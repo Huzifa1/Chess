@@ -2,7 +2,7 @@
     display: inline-block;
     /* width: 65%; */
     aspect-ratio: 1 / 1;
-    background-image: url('/images/board.png');
+    background-image: url('/Chess/images/board.png');
     background-size: cover
 }
 
@@ -666,51 +666,51 @@ body {
 
 
 .image.white.pawn {
-    background-image: url('/images/wp.png')
+    background-image: url('/Chess/images/wp.png')
 }
 
 .image.black.pawn {
-    background-image: url('/images/bp.png')
+    background-image: url('/Chess/images/bp.png')
 }
 
 .image.white.rook {
-    background-image: url('/images/wr.png')
+    background-image: url('/Chess/images/wr.png')
 }
 
 .image.black.rook {
-    background-image: url('/images/br.png')
+    background-image: url('/Chess/images/br.png')
 }
 
 .image.white.knight {
-    background-image: url('/images/wn.png')
+    background-image: url('/Chess/images/wn.png')
 }
 
 .image.black.knight {
-    background-image: url('/images/bn.png')
+    background-image: url('/Chess/images/bn.png')
 }
 
 .image.white.bishop {
-    background-image: url('/images/wb.png')
+    background-image: url('/Chess/images/wb.png')
 }
 
 .image.black.bishop {
-    background-image: url('/images/bb.png')
+    background-image: url('/Chess/images/bb.png')
 }
 
 .image.white.queen {
-    background-image: url('/images/wq.png')
+    background-image: url('/Chess/images/wq.png')
 }
 
 .image.black.queen {
-    background-image: url('/images/bq.png')
+    background-image: url('/Chess/images/bq.png')
 }
 
 .image.white.king {
-    background-image: url('/images/wk.png')
+    background-image: url('/Chess/images/wk.png')
 }
 
 .image.black.king {
-    background-image: url('/images/bk.png')
+    background-image: url('/Chess/images/bk.png')
 }
 
 
